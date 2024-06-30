@@ -1,4 +1,4 @@
-## ◇────── INTERNET-DOCTORS VPS MANAGER ───────◇
+## ◇────── SAFFULTECH VPS MANAGER ───────◇
 
 ㅤ
 <p align="left">
@@ -11,7 +11,7 @@
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/MAPTECHGH/DOCTORS-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/MAPTECHGH/SAFFULTECH-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
 
 ```
 
